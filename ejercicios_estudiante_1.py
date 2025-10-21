@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#Francisco Manuel Bermúdez Rodríguez y Brandon Camilo Londoño
 """
 EJERCICIOS PARA ESTUDIANTES - ESTRUCTURAS DE CONTROL
 Completa los siguientes ejercicios mientras exploramos los conceptos confusos.
